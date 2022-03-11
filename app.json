@@ -1,0 +1,26 @@
+{
+  "id": "6bbd2ab2-871f-453c-b2ad-6f1a58422c40",
+  "name": "Page Scanner",
+  "publisher": "Pavel Vondruška",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    ],
+  "screenshots": [],
+  "platform": "19.5.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 59999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://htmlpreview.github.io/?https://github.com/pavelvon76/mzlu_sandbox_javascript/blob/master/help/",
+  "showMyCode": true,
+  "runtime": "8.0"
+}
