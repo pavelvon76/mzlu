@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "Sandbox",
+            "environmentName": "MZLU",
             "tenant": "21d12e94-b1ce-4037-91db-d93c1fa5ab9e",
             //"startupObjectId": 30,
             //"startupObjectType": "Page",

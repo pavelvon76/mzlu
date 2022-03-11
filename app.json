@@ -1,19 +1,20 @@
 {
-  "id": "6bbd2ab2-871f-453c-b2ad-6f1a58422c40",
+  "id": "7987c5f0-27c5-4c46-9526-05e528f2e50a",
   "name": "Page_Scanner",
   "publisher": "Pavel Vondruška",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
+  "brief": "MZLU závěrečný projekt",
+  "description": "MZLU závěrečný projekt",
+  "privacyStatement": "https://essencebs.eu/en/privacy-policy",
+  "EULA": "https://essencebs.eu/en/software-app-end-user-license-agreement",
+  "help": "https://htmlpreview.github.io/?https://github.com/pavelvon76/mzlu_sandbox_javascript/blob/master/help.html",
+  "url": "https://htmlpreview.github.io/?https://github.com/pavelvon76/mzlu_sandbox_javascript/blob/master/",
   "logo": "",
   "dependencies": [
     ],
   "screenshots": [],
-  "platform": "19.5.0.0",
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
   "idRanges": [
     {
       "from": 50000,
@@ -21,6 +22,6 @@
     }
   ],
   "contextSensitiveHelpUrl": "https://htmlpreview.github.io/?https://github.com/pavelvon76/mzlu_sandbox_javascript/blob/master/help/",
-  "showMyCode": true,
-  "runtime": "8.0"
+  "runtime": "8.0",
+  "target": "Cloud"
 }
