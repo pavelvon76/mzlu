@@ -6,15 +6,19 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "MZLU",
-            "tenant": "21d12e94-b1ce-4037-91db-d93c1fa5ab9e",
-            "startupObjectId": 54100,
+            "environmentName": "mzlu",
+            "tenant": "9191dc92-5dc4-4c3f-9156-5948bfa2f352",
+            "startupObjectId": 50140,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
             "schemaUpdateMode": "ForceSync"
+            // https://businesscentral.dynamics.com/9191dc92-5dc4-4c3f-9156-5948bfa2f352/mzlu
+            // admin@CRMbc536870.onmicrosoft.com   ADUW11obEP 
+            // rxjs instalace https://rxjs.dev/guide/installation
+
         }
     ]
 }

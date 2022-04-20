@@ -22,6 +22,7 @@ window.parent.addEventListener('keydown', event => {
         if (event.keyCode == 09)
         {
             DropUntil74 = false;
+            alert('scanned!');
             Microsoft.Dynamics.NAV.InvokeExtensibilityMethod('Scanned',[Buffer]);
             Buffer = '';
         }

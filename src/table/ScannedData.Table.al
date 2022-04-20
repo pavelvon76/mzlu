@@ -1,7 +1,8 @@
-table 54100 "Scanned Data"
+table 54100 "Scanned Data MZLU"
 {
     Caption = 'Scanned Data';
     DataClassification = ToBeClassified;
+    LookupPageId = 50140;
 
     fields
     {
@@ -11,11 +12,31 @@ table 54100 "Scanned Data"
             AutoIncrement = true;
             DataClassification = ToBeClassified;
         }
+
+        field(10; ScannedItemTableName; Text[30])
+        {
+            Caption = 'Found Record';
+            DataClassification = CustomerContent;
+        }
+        field(11; ScannedPrimaryKey; Text[20])
+        {
+            Caption = 'Record Primary ID';
+            DataClassification = CustomerContent;
+        }
+
+        field(12; ScannedDescription; Text[50])
+        {
+            Caption = 'Record Description';
+            DataClassification = CustomerContent;
+        }
         field(2; Data; Text[50])
         {
             Caption = 'Data';
-            DataClassification = ToBeClassified;
+            DataClassification = CustomerContent;
         }
+
+
+
     }
     keys
     {

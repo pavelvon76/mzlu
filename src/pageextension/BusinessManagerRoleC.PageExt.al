@@ -5,11 +5,11 @@ pageextension 50000 "Business Manager Role C. MZLU" extends "Business Manager Ro
     {
         addlast(embedding)
         {
-            action(scanningappEBS)
+            action(scanningappMZLU)
             {
                 ApplicationArea = Basic, Suite;
                 Caption = 'Scanning App';
-                RunObject = Page "Scanner Test 1";
+                RunObject = Page "TestScannListMZLU";
                 ToolTip = 'Scanning App TEST AREA';
             }
         }
